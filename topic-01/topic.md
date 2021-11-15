@@ -1,3 +1,3 @@
-# Simple Units
+# ESP32 & DHT22 Setup
 
-This topic has 2 units - each unit has lectures + lab
+This topic shows the basic set up of the remote temperature sensors
