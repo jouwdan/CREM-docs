@@ -1,3 +1,3 @@
-# ESP32 & DHT22 Setup
+# Hardware Setup
 
-This topic shows the basic set up of the remote temperature sensors
+This topic shows how to set up the hardware for the CREM project
