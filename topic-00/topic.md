@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:direct-link
+  type: grommet-icons:overview
 ---
-# Crem Links
+# CREM Overview
 
-Links related to the CREM project such as the GitHub repository
+Video overview & a link to the CREM repo
