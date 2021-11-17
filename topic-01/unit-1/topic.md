@@ -1,1 +1,1 @@
-Hardware Setup
+Setup Tutorial

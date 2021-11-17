@@ -2,6 +2,6 @@
 icon:
   type: eos-icons:hardware-circuit
 ---
-# Hardware Setup
+# Setup Tutorial
 
-This topic shows how to set up the hardware for the CREM project
+A step by step guide on how to set up the CREM project
